@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono:size=12:antialias=true:autohint=true:style=Medium";
+static char *font = "JetBrains Mono Medium:size=12:antialias=true:autohint=true";
 static char *font2[] = { 
     "JoyPixels:size=12:antialias=true:autohint=true",
 };
