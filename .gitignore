@@ -2,3 +2,5 @@ st.o
 st
 x.o
 x.c.rej
+*.rej
+*.orig
