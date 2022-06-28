@@ -6,9 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Monospace:size=11:antialias=true:autohint=true";
-static char *font2[] = {
-    "Noto Color Emoji:size=12:antialias=true:autohint=true",
-};
+static char *font2[] = { "JoyPixels:size=11" };
 
 static int borderpx = 0;
 
