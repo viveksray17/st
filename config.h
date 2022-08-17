@@ -96,6 +96,8 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* Terminal colors (16 first used in escape sequence) */
+// tokyonight colorscheme
+// https://github.com/folke/tokyonight.nvim
 static const char *colorname[] = {
   [0] = "#15161e",
   [1] = "#f7768e",
@@ -130,7 +132,6 @@ static unsigned int defaultrcs = 257;
  * 2: Block ("█")
  * 4: Underline ("_")
  * 6: Bar ("|")
- * 7: Snowman ("☃")
  */
 static unsigned int cursorshape = 2;
 
